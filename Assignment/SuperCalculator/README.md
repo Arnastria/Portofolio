@@ -1,11 +1,11 @@
-#Super Calculator
+# Super Calculator
 
 Originally created for Assignment 04 from **CSGE601020 : Programming Foundation 1** @Faculty of Computer Science University of Indonesia
 
 Code by *Ariq Naufal Satria*
 * * * 
 
-##Description
+## Description
 * The calculator is a GUI-based event-driven Python Program.
 * The modul used in this program is **tkinter**,**math**,and **idlelib.tooltip**.
 * The calculator is working Object-Oriented.
